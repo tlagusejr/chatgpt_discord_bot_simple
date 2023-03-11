@@ -22,7 +22,6 @@ git clone https://github.com/tlagusejr/chatgpt_discord_bot_simple.git
 linux: python3 main.py
 
 하시면 됩니다. 구름 ide나 오라클 클라우드 등을 참고해서 무료 클라우드로 24시간 실행하시면 더 편함
-3.. 코드도 잘생성해줌 => 
 
 ## 4.. 미세조정 
 https://lsjsj92.tistory.com/656 를 참고하시면 됩니다.
