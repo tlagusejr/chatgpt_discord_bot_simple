@@ -15,13 +15,15 @@ https://nscworld.net/2023/01/19/openai-chatgpt-api-%EB%A7%8C%EB%93%9C%EB%8A%94-%
 
 ## 3. run main.py
 
+'''
 pip install openai
-pip install discord.py
-
+pip install discord.py  
+'''
 한 뒤에
+'''
 git clone https://github.com/tlagusejr/chatgpt_discord_bot_simple.git
 linux: python3 main.py
-
+'''
 하시면 됩니다. 구름 ide나 오라클 클라우드 등을 참고해서 무료 클라우드로 24시간 실행하시면 더 편함
 
 ## 4.. 미세조정 
