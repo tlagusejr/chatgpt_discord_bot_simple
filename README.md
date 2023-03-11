@@ -1,33 +1,31 @@
 # chatgpt_discord_simple
-한국어 <= 만들기링크따서
+
 0. 장점 : 가격, 커스터마이즈 가능
-주의할점... 노출하지말것... 
+주의할점: api 키노출시 비용이 청구 될 수 있음
 ## 1. make discord bot
-1.1 visit this
-https://discord.com/build
-1.2 click app get started button
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/52907198/224369844-a819263d-b9ba-474a-8db4-45fb563976a6.png">
-1.3 make new app
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/52907198/224370497-2d0552cf-5931-4107-b3c0-1761d2c6082f.png">
-1.4 click Bot and get token
 
-1.5 
+https://scvtwo.tistory.com/196 
+를 참고해서 봇을 만듭니다.
+그후 url로 서버에 초대
 
-나중에 보강예정
-
-## 2. make chatgpt
-2.1. 챗지피티 인증받기
-2.2. 코드수정
+## 2. make chatgpt api key
+https://nscworld.net/2023/01/19/openai-chatgpt-api-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95/
+를 참고해서 api키를 발급받습니다.
 
 ## 3. run main.py
 
 pip install openai
 pip install discord.py
 
+한 뒤에
+git clone https://github.com/tlagusejr/chatgpt_discord_bot_simple.git
 linux: python3 main.py
 
+하시면 됩니다. 구름 ide나 오라클 클라우드 등을 참고해서 무료 클라우드로 24시간 실행하시면 더 편함
 3.. 코드도 잘생성해줌 => 
 
-## 4.. 미세조정 ? 
+## 4.. 미세조정 
+https://lsjsj92.tistory.com/656 를 참고하시면 됩니다.
 
-## 5. 참고할한 것..
+참고한 많은 블로그 감사합니다.
+
