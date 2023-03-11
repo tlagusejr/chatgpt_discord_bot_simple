@@ -15,12 +15,9 @@ https://nscworld.net/2023/01/19/openai-chatgpt-api-%EB%A7%8C%EB%93%9C%EB%8A%94-%
 
 ## 3. run main.py
 
-''' 
+'''
 pip install openai
 pip install discord.py  
-'''
-한 뒤에
-'''
 git clone https://github.com/tlagusejr/chatgpt_discord_bot_simple.git
 linux: python3 main.py
 '''
