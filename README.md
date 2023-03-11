@@ -1,6 +1,7 @@
 # chatgpt_discord_simple
 
-0. 장점 : 가격, 커스터마이즈 가능
+0. 장점 : 가격, 커스터마이즈 가능. 
+#
 주의할점: api 키노출시 비용이 청구 될 수 있음
 ## 1. make discord bot
 
