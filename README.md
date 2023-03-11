@@ -1,6 +1,6 @@
 # chatgpt_discord_simple
 
-0. 장점 : 가격, 커스터마이즈 가능. 
+장점 : 가격, 커스터마이즈 가능. 
 #
 주의할점: api 키노출시 비용이 청구 될 수 있음
 ## 1. make discord bot
@@ -29,3 +29,14 @@ https://lsjsj92.tistory.com/656 를 참고하시면 됩니다.
 
 참고한 많은 블로그 감사합니다.
 
+## 5. 사용법
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/52907198/224468764-f207505c-20d1-4b16-8a20-9bb60a1896f4.png">
+해당  코드는 개인용 
+dm용이라서 채널에 
+접속한 뒤에 사용하셔야댑니다.
+
+!질문 
+하면 답해줍니다
+
+!대화종료
+대화를 종료합니다.
