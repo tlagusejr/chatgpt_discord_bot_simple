@@ -30,11 +30,13 @@ https://lsjsj92.tistory.com/656 를 참고하시면 됩니다.
 참고한 많은 블로그 감사합니다.
 
 ## 5. 사용법
+<img width="594" alt="스크린샷 2023-03-11 오후 3 38 11" src="https://user-images.githubusercontent.com/52907198/224469411-66b673b2-4c01-4983-b1b9-68fc0575bed5.png">
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/52907198/224468764-f207505c-20d1-4b16-8a20-9bb60a1896f4.png">
 해당  코드는 개인용 
 dm용이라서 채널에 
 접속한 뒤에 사용하셔야댑니다.
 
+## 3. run main.py
 !질문 
 하면 답해줍니다
 
